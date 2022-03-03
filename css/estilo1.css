@@ -1,0 +1,168 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    overflow: hidden;
+    background-color: #3f14ff;
+    padding: 20px 60px;
+}
+
+nav {
+    float: right;
+}
+
+nav ul li {
+    list-style: none;
+    margin-left: 60px;
+    float: left;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.titulo {
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: ;
+}
+
+#imgj img {
+    width: 140px;
+    height: auto;
+    border-radius: 80px;
+    margin: auto;
+    display: block;
+}
+
+#seccion {
+    /* background-color: rgb(223, 219, 219); */
+    height: 200px;
+    /* padding-left: 10px;
+    padding-right: 10px;
+    padding-top:5px; */
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.box h1 {
+    color: rgb(8, 8, 8);
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: center;
+}
+
+.box input[type="text"],
+.box input[type="password"] {
+    border: 0;
+    background: none;
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 10px;
+    width: 500px;
+    outline: none;
+    color: white;
+    transition: 0.25s;
+}
+
+.box input[type="text"]:focus,
+.box input[type="password"]:focus {
+    width: 280px;
+    border-color: #2ecc71;
+}
+
+.box input[type="submit"] {
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #2ecc71;
+    padding: 14px 40px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+}
+
+.box input[type="submit"]:hover {
+    background: #2ecc71;
+}
+
+#description {
+    text-align: center;
+}
+
+
+/* #seccion #caja1 {
+    background: #EDE4E4;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 5px;
+    border-radius: 20px;
+}
+
+#seccion #caja2 {
+    background: #EDE4E4;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 5px;
+    border-radius: 20px;
+}
+
+#seccion #caja3 {
+    background: #EDE4E4;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 5px;
+    border-radius: 20px;
+}
+
+#seccion #caja4 {
+    background: #EDE4E4;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 5px;
+    border-radius: 20px;
+}
+
+#description input {
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 3.4px solid #000000;
+    width: 1000px;
+    height: 100px;
+}
+
+input {
+    border: 3.4px solid #000000;
+}
+
+#description {
+    text-align: center;
+} */
